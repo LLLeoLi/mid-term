@@ -15,14 +15,14 @@ css: unocss
 title: 小学期WEB开发
 ---
 
-# Web开发—前端部分
-## 程序设计实践(2022夏)
+# 小学期权重：1
 
 <div class="pt-12">
   <span class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-   助教 : 李昊 
+   姓名 : 李昊 
   </span>
 </div>
+
 ---
 layout: section
 ---
@@ -68,7 +68,7 @@ layout : two-cols
 # VS Code
 - VSCode（基于JS语言的Electron框架编写）是前端的**主力开发工具**，拥有数以万计的插件，生态极为活跃和丰富。![img](https://camo.githubusercontent.com/59fcf8fd89e84aaafba090e1341f139d0667e9d99935d6b572cc19521249e872/687474703a2f2f696d672e736d79687661652e636f6d2f32303139303331335f313735305f332e706e67)
   - VS Code 官网：[https://code.visualstudio.com](https://code.visualstudio.com/)
-::right::
+  ::right::
 # Chrome浏览器
 - Chrome浏览器是前端的主流浏览器，由Google进行开发，控制台功能强大，对程序员十分友好。![Chrome | Google Blog](data:image/png;base64,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)
 
@@ -245,15 +245,15 @@ layout: two-cols
 - <Mouse/>
 - ```js
   const { x, y, sourceType} = useMouse();
-    ```
+  ```
 - <Interval/>
 - ```js
   const counter = useInterval(2000);
-    ```
+  ```
 - <Now/>
 - ```js
   const now = useDateFormat(useNow(), 'YYYY-MM-DD HH:mm:ss');
-    ```
+  ```
 
 
 ---
