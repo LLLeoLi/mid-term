@@ -13,15 +13,6 @@ drawings:
   persist: false
 css: unocss
 title: 小学期WEB开发
----
-
-# 小学期权重：1
-
-<div class="pt-12">
-  <span class="px-2 py-1 rounded cursor-pointer" hover="bg-white bg-opacity-10">
-   姓名 : 李昊 
-  </span>
-</div>
 
 ---
 layout: section
